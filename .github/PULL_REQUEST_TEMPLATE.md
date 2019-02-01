@@ -13,6 +13,7 @@ To make sure users can find your extension, understand what it is intended for a
 - [ ] Extension description summarizes in 1-2 sentences what the extension is usable (should be understandable for non-experts)
 - [ ] Extension URL and revision (scmurl, scmrevision) is correct, consider using a branch name (master, release, ...) instead of a specific git has to avoid re-submitting pull request whenever the extension is updated
 - [ ] Extension icon URL is correct
+- []  Method/algorithm implemented in the Extension has a link to PubMed publication (if available)
 - [ ] Screenshot URLs (screenshoturls) are correct, contains at least one
 - [ ] Homepage URL points to valid webpage containing the following:
   - [ ] Extension name
